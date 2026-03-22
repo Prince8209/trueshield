@@ -1,7 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 const mongoose = require('mongoose');
-const env = require('../src/config/env.config');
+const dotenv = require('dotenv');
+
+// Load env from backend/.env
+dotenv.config({ path: path.join(__dirname, '..', 'backend', '.env') });
+
+const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/trueshield';
 
 /**
  * Seed Script — Import CSV data into MongoDB
@@ -74,7 +79,7 @@ const SpamSeed = mongoose.model('SpamSeed', spamSeedSchema);
 // --- Main Seed Function ---
 const seedDatabase = async () => {
   try {
-    await mongoose.connect(env.MONGO_URI);
+    await mongoose.connect(MONGO_URI);
     console.log('✅ Connected to MongoDB');
 
     const rawDir = path.join(__dirname, 'raw');
