@@ -6,6 +6,7 @@ const errorHandler = require('./middleware/error.middleware');
 const healthRoutes = require('./routes/health.route');
 const authRoutes = require('./routes/auth.route');
 const userRoutes = require('./routes/user.route');
+const phoneRoutes = require('./routes/phone.route');
 
 /**
  * Create and configure Express application
@@ -26,6 +27,7 @@ app.use(logger);
 app.use('/api/health', healthRoutes);
 app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
+app.use('/api/phone', phoneRoutes);
 
 // --- 404 Handler ---
 app.use((req, res) => {

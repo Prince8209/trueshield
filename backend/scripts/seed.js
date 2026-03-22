@@ -32,13 +32,13 @@ const parseCSV = (filePath) => {
   return rows;
 };
 
-const Country = require('../backend/src/models/country.model');
-const AreaCode = require('../backend/src/models/areaCode.model');
-const IndiaSTD = require('../backend/src/models/indiaSTD.model');
-const Carrier = require('../backend/src/models/carrier.model');
-const SpamSeed = require('../backend/src/models/spamSeed.model');
-const MobileSeries = require('../backend/src/models/mobileSeries.model');
-const PhoneDirectory = require('../backend/src/models/phoneDirectory.model');
+const Country = require('../src/models/country.model');
+const AreaCode = require('../src/models/areaCode.model');
+const IndiaSTD = require('../src/models/indiaSTD.model');
+const Carrier = require('../src/models/carrier.model');
+const SpamSeed = require('../src/models/spamSeed.model');
+const MobileSeries = require('../src/models/mobileSeries.model');
+const PhoneDirectory = require('../src/models/phoneDirectory.model');
 
 // --- Main Seed Function ---
 const seedDatabase = async () => {

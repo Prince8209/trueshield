@@ -1,0 +1,102 @@
+STD_Code,City,State
+11,New Delhi,Delhi
+22,Mumbai,Maharashtra
+33,Chennai,Tamil Nadu
+44,Bangalore,Karnataka
+40,Hyderabad,Telangana
+20,Pune,Maharashtra
+79,Ahmedabad,Gujarat
+80,Bangalore,Karnataka
+120,Ghaziabad,Uttar Pradesh
+121,Meerut,Uttar Pradesh
+129,Faridabad,Haryana
+130,Sonipat,Haryana
+131,Panipat,Haryana
+132,Karnal,Haryana
+135,Dehradun,Uttarakhand
+141,Jaipur,Rajasthan
+145,Jodhpur,Rajasthan
+151,Ludhiana,Punjab
+161,Chandigarh,Chandigarh
+172,Shimla,Himachal Pradesh
+177,Hamirpur,Himachal Pradesh
+180,Amritsar,Punjab
+181,Jalandhar,Punjab
+183,Batala,Punjab
+184,Pathankot,Punjab
+191,Jammu,Jammu and Kashmir
+194,Srinagar,Jammu and Kashmir
+212,Aurangabad,Maharashtra
+217,Solapur,Maharashtra
+231,Nagpur,Maharashtra
+233,Nashik,Maharashtra
+241,Akola,Maharashtra
+250,Thane,Maharashtra
+251,Malegaon,Maharashtra
+253,Nashik,Maharashtra
+261,Surat,Gujarat
+265,Vadodara,Gujarat
+278,Rajkot,Gujarat
+281,Junagadh,Gujarat
+285,Bhavnagar,Gujarat
+291,Jodhpur,Rajasthan
+294,Udaipur,Rajasthan
+300,Kanpur,Uttar Pradesh
+322,Varanasi,Uttar Pradesh
+332,Kolkata,West Bengal
+341,Burdwan,West Bengal
+343,Asansol,West Bengal
+353,Siliguri,West Bengal
+360,Gangtok,Sikkim
+361,Guwahati,Assam
+364,Shillong,Meghalaya
+381,Agartala,Tripura
+385,Imphal,Manipur
+389,Aizawl,Mizoram
+40,Hyderabad,Telangana
+416,Sangli,Maharashtra
+422,Nashik,Maharashtra
+424,Dhule,Maharashtra
+431,Aurangabad,Maharashtra
+452,Indore,Madhya Pradesh
+471,Thiruvananthapuram,Kerala
+474,Kollam,Kerala
+477,Kottayam,Kerala
+484,Ernakulam,Kerala
+487,Thrissur,Kerala
+495,Kozhikode,Kerala
+497,Kannur,Kerala
+512,Kanpur,Uttar Pradesh
+522,Lucknow,Uttar Pradesh
+532,Prayagraj,Uttar Pradesh
+542,Varanasi,Uttar Pradesh
+551,Gorakhpur,Uttar Pradesh
+562,Agra,Uttar Pradesh
+571,Aligarh,Uttar Pradesh
+581,Bareilly,Uttar Pradesh
+591,Moradabad,Uttar Pradesh
+612,Patna,Bihar
+621,Muzaffarpur,Bihar
+631,Ranchi,Jharkhand
+641,Dhanbad,Jharkhand
+651,Jamshedpur,Jharkhand
+657,Bokaro,Jharkhand
+661,Rourkela,Odisha
+671,Cuttack,Odisha
+674,Bhubaneswar,Odisha
+712,Nagpur,Maharashtra
+721,Wardha,Maharashtra
+731,Indore,Madhya Pradesh
+751,Gwalior,Madhya Pradesh
+755,Bhopal,Madhya Pradesh
+761,Jabalpur,Madhya Pradesh
+771,Raipur,Chhattisgarh
+788,Bilaspur,Chhattisgarh
+816,Muzaffarpur,Bihar
+821,Mysore,Karnataka
+824,Mangalore,Karnataka
+831,Belgaum,Karnataka
+836,Hubli,Karnataka
+866,Vijayawada,Andhra Pradesh
+877,Tirupati,Andhra Pradesh
+891,Visakhapatnam,Andhra Pradesh
