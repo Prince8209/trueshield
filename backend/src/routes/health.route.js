@@ -1,5 +1,5 @@
-import { Router } from 'express';
-import mongoose from 'mongoose';
+const { Router } = require('express');
+const mongoose = require('mongoose');
 
 const router = Router();
 
@@ -9,14 +9,14 @@ const router = Router();
  * @access  Public
  */
 router.get('/', (req, res) => {
-    res.status(200).json({
-        success: true,
-        status: 'ok',
-        service: 'trueshield-backend',
-        uptime: `${Math.floor(process.uptime())}s`,
-        dbState: mongoose.STATES[mongoose.connection.readyState],
-        timestamp: new Date().toISOString(),
-    });
+  res.status(200).json({
+    success: true,
+    status: 'ok',
+    service: 'trueshield-backend',
+    uptime: `${Math.floor(process.uptime())}s`,
+    dbState: mongoose.STATES[mongoose.connection.readyState],
+    timestamp: new Date().toISOString(),
+  });
 });
 
-export default router;
+module.exports = router;

@@ -1,7 +1,7 @@
-import app from './src/app.js';
-import env from './src/config/env.config.js';
-import connectDB from './src/config/db.config.js';
-import { connectRedis } from './src/config/redis.config.js';
+const app = require('./src/app');
+const env = require('./src/config/env.config');
+const connectDB = require('./src/config/db.config');
+const { connectRedis } = require('./src/config/redis.config');
 
 /**
  * Start TrueShield Backend Server

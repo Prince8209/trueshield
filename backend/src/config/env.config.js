@@ -1,4 +1,4 @@
-import dotenv from 'dotenv';
+const dotenv = require('dotenv');
 
 // Load environment variables from .env file
 dotenv.config();
@@ -45,4 +45,4 @@ const validateEnv = () => {
 
 validateEnv();
 
-export default env;
+module.exports = env;

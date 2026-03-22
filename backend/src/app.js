@@ -1,9 +1,9 @@
-import express from 'express';
-import cors from 'cors';
-import helmet from 'helmet';
-import logger from './middleware/logger.middleware.js';
-import errorHandler from './middleware/error.middleware.js';
-import healthRoutes from './routes/health.route.js';
+const express = require('express');
+const cors = require('cors');
+const helmet = require('helmet');
+const logger = require('./middleware/logger.middleware');
+const errorHandler = require('./middleware/error.middleware');
+const healthRoutes = require('./routes/health.route');
 
 /**
  * Create and configure Express application
@@ -34,4 +34,4 @@ app.use((req, res) => {
 // --- Global Error Handler ---
 app.use(errorHandler);
 
-export default app;
+module.exports = app;
