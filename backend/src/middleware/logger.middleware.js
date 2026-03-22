@@ -1,5 +1,5 @@
 import morgan from 'morgan';
-import env from '../config/env.js';
+import env from '../config/env.config.js';
 
 /**
  * HTTP request logger middleware

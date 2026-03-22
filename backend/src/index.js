@@ -1,12 +1,12 @@
 import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
-import env from './config/env.js';
-import connectDB from './config/db.js';
-import { connectRedis } from './config/redis.js';
-import logger from './middleware/logger.js';
-import errorHandler from './middleware/errorHandler.js';
-import healthRoutes from './routes/healthRoutes.js';
+import env from './config/env.config.js';
+import connectDB from './config/db.config.js';
+import { connectRedis } from './config/redis.config.js';
+import logger from './middleware/logger.middleware.js';
+import errorHandler from './middleware/error.middleware.js';
+import healthRoutes from './routes/health.route.js';
 
 /**
  * Initialize Express application
