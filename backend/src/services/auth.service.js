@@ -15,12 +15,12 @@ const AppError = require('../utils/appError.util');
  */
 const sendOtp = async (phone) => {
   // Generate OTP
-  const otp = otpService.generateOtp();
+  const otp = otpService.generateOTP();
 
-  // Store in Redis (5 min TTL)
-  await otpService.storeOtp(phone, otp);
+  // Store in cache (Redis/Memory)
+  await otpService.saveOTP(phone, otp);
 
-  // Send OTP (mock in dev, Twilio in prod)
+  // Send OTP
   await otpService.sendOtp(phone, otp);
 
   return { message: 'OTP sent successfully' };
@@ -34,19 +34,12 @@ const sendOtp = async (phone) => {
  * @returns {Object} { token, user }
  */
 const verifyOtp = async (phone, otp) => {
-  // Get stored OTP from Redis
-  const storedOtp = await otpService.getStoredOtp(phone);
+  // Verify OTP from cache
+  const isValid = await otpService.verifyOTP(phone, otp);
 
-  if (!storedOtp) {
-    throw new AppError('OTP expired or not found. Please request a new OTP.', 400);
+  if (!isValid) {
+    throw new AppError('Invalid or expired OTP. Please try again.', 400);
   }
-
-  if (storedOtp !== otp) {
-    throw new AppError('Invalid OTP. Please try again.', 400);
-  }
-
-  // Delete OTP after successful verification
-  await otpService.deleteOtp(phone);
 
   // Find or create user
   let user = await User.findOne({ phone });
@@ -56,7 +49,7 @@ const verifyOtp = async (phone, otp) => {
   }
 
   // Generate JWT token
-  const token = generateToken(user);
+  const token = generateToken(user._id);
 
   return { token, user };
 };

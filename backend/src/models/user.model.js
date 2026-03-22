@@ -11,18 +11,33 @@ const userSchema = new mongoose.Schema(
       required: [true, 'Phone number is required'],
       unique: true,
       trim: true,
-      index: true,
+      index: true, // For fast lookups
     },
     name: {
       type: String,
       trim: true,
-      default: '',
     },
     email: {
       type: String,
       trim: true,
       lowercase: true,
-      default: '',
+    },
+    avatar: {
+      type: String, // URL to profile picture
+    },
+    isVerified: {
+      type: Boolean,
+      default: false, // OTP verification status
+    },
+    spamBlockingPreferences: {
+      blockKnownSpam: {
+        type: Boolean,
+        default: true,
+      },
+      blockHiddenNumbers: {
+        type: Boolean,
+        default: false,
+      },
     },
   },
   {
