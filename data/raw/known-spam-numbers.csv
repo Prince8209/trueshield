@@ -1,0 +1,41 @@
+PhoneNumber,Name,Type,Reason,ReportCount,Source
++918888888888,Spam Caller,spam,Telemarketing,150,seed
++918800001111,Insurance Scam,scam,Fake insurance calls,200,seed
++918800002222,Loan Scam,scam,Fake loan offers,180,seed
++918800003333,OTP Scam,scam,Asks for OTP/bank details,250,seed
++918800004444,Credit Card Scam,scam,Fake credit card offers,120,seed
++917000010001,Spam Marketing,spam,Unwanted marketing,90,seed
++917000010002,Real Estate Spam,spam,Unwanted property calls,110,seed
++917000010003,Stock Tips Spam,spam,Unsolicited stock tips,85,seed
++917000010004,Insurance Spam,spam,Repeated insurance calls,95,seed
++917000010005,Job Scam,scam,Fake job offers,130,seed
++12025551234,Robocall,spam,Automated spam call,300,seed
++12025551235,IRS Scam,scam,IRS impersonation,500,seed
++12025551236,Tech Support Scam,scam,Fake Microsoft support,250,seed
++12025551237,Warranty Scam,scam,Car warranty extension,400,seed
++12025551238,Social Security Scam,scam,SSN threat scam,350,seed
++12125559001,Telemarketer,spam,Insurance sales,100,seed
++12125559002,Prize Scam,scam,You won a prize,200,seed
++12125559003,Debt Collector Scam,scam,Fake debt threats,180,seed
++12125559004,Bank Phishing,scam,Fake bank calls,220,seed
++12125559005,Amazon Scam,scam,Fake Amazon order,190,seed
++13105551001,Robocall Spam,spam,Political robocall,80,seed
++13105551002,Survey Scam,scam,Fake survey for data,70,seed
++13105551003,Medicare Scam,scam,Fake Medicare signup,160,seed
++14155551001,Crypto Scam,scam,Fake crypto investment,240,seed
++14155551002,Timeshare Spam,spam,Vacation timeshare,65,seed
++442071234567,PPI Scam,scam,Payment protection insurance,150,seed
++442071234568,HMRC Scam,scam,Tax refund scam,200,seed
++442071234569,Energy Scam,scam,Fake energy provider,130,seed
++919876000001,Pharmacy Spam,spam,Medicine ads,75,seed
++919876000002,Exam Result Scam,scam,Fake exam results,60,seed
++919876000003,KYC Scam,scam,Fake KYC update,280,seed
++919876000004,Electricity Bill Scam,scam,Bill threatening cutoff,190,seed
++919876000005,Lottery Scam,scam,You won lottery,320,seed
++919876000006,Aadhaar Scam,scam,Aadhaar link scam,270,seed
++919876000007,Paytm Scam,scam,Fake Paytm cashback,210,seed
++919876000008,UPI Scam,scam,UPI fraud attempts,290,seed
++919876000009,Courier Scam,scam,Fake courier delivery,170,seed
++919876000010,SIM Swap Scam,scam,SIM deactivation threat,330,seed
++919876000011,Police Scam,scam,Police impersonation,260,seed
++919876000012,Bank OTP Scam,scam,Requests banking OTP,350,seed
