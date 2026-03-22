@@ -1,0 +1,501 @@
+PhoneNumber,Name,Type,Reason,ReportCount,SpamScore
++919877563179,Bank Phishing,scam,Bank Phishing,35,42.5
++918700299535,Job Scam,scam,Job Scam,222,91.6
++918800421953,Lottery Scam,scam,Lottery Scam,160,78.0
++919876786533,Electricity Bill Scam,scam,Electricity Bill Scam,178,80.4
++917100218648,Paytm Cashback Scam,scam,Paytm Cashback Scam,449,100
++917100691669,Fake Delivery,scam,Fake Delivery,238,91.4
++919300392781,UPI Scam,scam,UPI Scam,127,64.1
++917300890233,Education Spam,spam,Education Spam,247,96.1
++919999204503,Police Impersonation,scam,Police Impersonation,267,95.1
++918300795422,Electricity Bill Scam,scam,Electricity Bill Scam,487,100
++918300795075,Matrimony Spam,spam,Matrimony Spam,456,100
++919876841179,Job Scam,scam,Job Scam,443,100
++916300585336,Prize Scam,scam,Prize Scam,283,100
++919999870560,Job Scam,scam,Job Scam,64,48.2
++918300344188,Paytm Cashback Scam,scam,Paytm Cashback Scam,225,98.5
++919500539281,Education Spam,spam,Education Spam,75,55.5
++917500118411,Telemarketing,spam,Telemarketing,40,39.0
++917700434139,KYC Fraud,scam,KYC Fraud,79,60.7
++916100147994,Bank Phishing,scam,Bank Phishing,224,100
++919877904274,Police Impersonation,scam,Police Impersonation,71,47.3
++916000532668,Aadhaar Scam,scam,Aadhaar Scam,62,58.6
++916200445130,Telemarketing,spam,Telemarketing,45,53.5
++918888618737,Telemarketing,spam,Telemarketing,285,100
++919300831578,Bank Phishing,scam,Bank Phishing,344,100
++917000938130,Fake Tech Support,scam,Fake Tech Support,311,100
++917100127138,Insurance Scam,scam,Insurance Scam,254,91.2
++919300840928,Investment Scam,scam,Investment Scam,213,85.9
++918800414996,Loan Offer,spam,Loan Offer,243,100
++918700392398,Prize Scam,scam,Prize Scam,106,45.8
++916200648668,Political Robocall,spam,Political Robocall,351,100
++919877387135,Aadhaar Scam,scam,Aadhaar Scam,102,64.6
++916200795142,Loan Offer,spam,Loan Offer,462,100
++917000586274,Real Estate Spam,spam,Real Estate Spam,38,32.4
++918800555612,Police Impersonation,scam,Police Impersonation,281,100
++916000577154,Police Impersonation,scam,Police Impersonation,314,100
++916300755462,Credit Card Scam,scam,Credit Card Scam,225,100
++919500932576,Police Impersonation,scam,Police Impersonation,261,91.3
++919876637314,Courier Fraud,scam,Courier Fraud,141,59.3
++919300886669,Insurance Scam,scam,Insurance Scam,456,100
++917300846639,Courier Fraud,scam,Courier Fraud,381,100
++916100166600,Aadhaar Scam,scam,Aadhaar Scam,364,100
++917300281347,Real Estate Spam,spam,Real Estate Spam,279,100
++919300729193,Lottery Scam,scam,Lottery Scam,102,67.6
++917300318700,Loan Offer,spam,Loan Offer,211,83.3
++916100404927,Paytm Cashback Scam,scam,Paytm Cashback Scam,374,100
++918800233441,OTP Fraud,scam,OTP Fraud,386,100
++917300238669,Courier Fraud,scam,Courier Fraud,441,100
++917300572891,Survey Scam,scam,Survey Scam,76,53.8
++916100419320,Job Scam,scam,Job Scam,423,100
++919877602299,Fake Delivery,scam,Fake Delivery,413,100
++916200339465,OTP Fraud,scam,OTP Fraud,211,77.3
++916000712426,Paytm Cashback Scam,scam,Paytm Cashback Scam,414,100
++917100428332,Insurance Scam,scam,Insurance Scam,424,100
++916100438978,Courier Fraud,scam,Courier Fraud,293,100
++919500812737,Insurance Scam,scam,Insurance Scam,85,39.5
++917700321863,Credit Card Scam,scam,Credit Card Scam,111,58.3
++919876396191,Electricity Bill Scam,scam,Electricity Bill Scam,52,53.6
++917700591520,UPI Scam,scam,UPI Scam,445,100
++919876747577,KYC Fraud,scam,KYC Fraud,282,100
++917500470049,Auto Insurance Spam,spam,Auto Insurance Spam,469,100
++919500958292,Investment Scam,scam,Investment Scam,331,100
++916300918910,Lottery Scam,scam,Lottery Scam,123,55.9
++918800587722,WhatsApp Scam,scam,WhatsApp Scam,72,45.6
++918888749733,WhatsApp Scam,scam,WhatsApp Scam,434,100
++916100153979,Police Impersonation,scam,Police Impersonation,168,76.4
++919100380537,Matrimony Spam,spam,Matrimony Spam,164,81.2
++916100567221,Political Robocall,spam,Political Robocall,330,100
++916300343464,Matrimony Spam,spam,Matrimony Spam,458,100
++916200501914,Auto Insurance Spam,spam,Auto Insurance Spam,360,100
++919999355971,Real Estate Spam,spam,Real Estate Spam,453,100
++916300644639,Health Insurance Spam,spam,Health Insurance Spam,438,100
++916100502896,Real Estate Spam,spam,Real Estate Spam,443,100
++918300126325,Fake Tech Support,scam,Fake Tech Support,144,63.2
++916200722833,Police Impersonation,scam,Police Impersonation,51,31.3
++919100575811,KYC Fraud,scam,KYC Fraud,390,100
++919100136427,Aadhaar Scam,scam,Aadhaar Scam,206,76.8
++919100982203,Courier Fraud,scam,Courier Fraud,75,33.5
++919876485104,SIM Swap Scam,scam,SIM Swap Scam,476,100
++918500583125,Aadhaar Scam,scam,Aadhaar Scam,140,59.0
++916200987815,Telemarketing,spam,Telemarketing,32,28.6
++916100417315,Survey Scam,scam,Survey Scam,495,100
++919876117755,Telemarketing,spam,Telemarketing,236,92.8
++917300225818,Auto Insurance Spam,spam,Auto Insurance Spam,489,100
++919999397596,KYC Fraud,scam,KYC Fraud,212,98.6
++919300186793,Survey Scam,scam,Survey Scam,302,100
++916300557379,UPI Scam,scam,UPI Scam,289,99.7
++917100197814,Telemarketing,spam,Telemarketing,134,80.2
++918300191854,Tax Refund Scam,scam,Tax Refund Scam,7,19.1
++917300141304,Investment Scam,scam,Investment Scam,427,100
++919877494436,Prize Scam,scam,Prize Scam,238,90.4
++916100967761,Credit Card Scam,scam,Credit Card Scam,11,42.3
++918700432850,WhatsApp Scam,scam,WhatsApp Scam,35,42.5
++919999695873,Political Robocall,spam,Political Robocall,367,100
++919500648426,Auto Insurance Spam,spam,Auto Insurance Spam,30,37.0
++919100806691,Aadhaar Scam,scam,Aadhaar Scam,467,100
++917000290933,Insurance Scam,scam,Insurance Scam,40,37.0
++919500521213,Insurance Scam,scam,Insurance Scam,436,100
++918888990573,SIM Swap Scam,scam,SIM Swap Scam,51,34.3
++916200919675,KYC Fraud,scam,KYC Fraud,51,36.3
++917300969408,Aadhaar Scam,scam,Aadhaar Scam,342,100
++919100756589,Investment Scam,scam,Investment Scam,345,100
++918500268685,Electricity Bill Scam,scam,Electricity Bill Scam,360,100
++919300272146,Tax Refund Scam,scam,Tax Refund Scam,43,35.9
++916300245451,Paytm Cashback Scam,scam,Paytm Cashback Scam,387,100
++916300286615,Investment Scam,scam,Investment Scam,219,100
++917700617995,Police Impersonation,scam,Police Impersonation,104,45.2
++917000170867,Telemarketing,spam,Telemarketing,433,100
++916000170029,KYC Fraud,scam,KYC Fraud,63,40.9
++917000700059,Telemarketing,spam,Telemarketing,207,98.1
++919500653526,Courier Fraud,scam,Courier Fraud,322,100
++916300734247,Telemarketing,spam,Telemarketing,91,51.3
++918500680244,Insurance Scam,scam,Insurance Scam,388,100
++917700137128,Courier Fraud,scam,Courier Fraud,461,100
++919877757784,Education Spam,spam,Education Spam,308,100
++917100637564,WhatsApp Scam,scam,WhatsApp Scam,41,33.3
++919500205072,Courier Fraud,scam,Courier Fraud,359,100
++918700840353,Police Impersonation,scam,Police Impersonation,243,100
++917700522680,Telemarketing,spam,Telemarketing,272,100
++919876964221,Prize Scam,scam,Prize Scam,483,100
++916200441230,Health Insurance Spam,spam,Health Insurance Spam,78,48.4
++918700123884,Paytm Cashback Scam,scam,Paytm Cashback Scam,78,49.4
++917100150320,Job Scam,scam,Job Scam,53,48.9
++916100688899,Education Spam,spam,Education Spam,359,100
++917700312180,OTP Fraud,scam,OTP Fraud,176,92.8
++917000626126,Telemarketing,spam,Telemarketing,474,100
++917100695844,Telemarketing,spam,Telemarketing,212,99.6
++916300730917,KYC Fraud,scam,KYC Fraud,150,58.0
++919877249459,OTP Fraud,scam,OTP Fraud,228,100
++917700951795,Stock Tips,spam,Stock Tips,314,100
++917100422895,Courier Fraud,scam,Courier Fraud,216,91.8
++918800945191,Fake Tech Support,scam,Fake Tech Support,210,100
++918800483629,UPI Scam,scam,UPI Scam,85,48.5
++917700113117,Political Robocall,spam,Political Robocall,136,58.8
++916000456229,Fake Tech Support,scam,Fake Tech Support,210,88.0
++917100555473,Insurance Scam,scam,Insurance Scam,304,100
++917700370512,SIM Swap Scam,scam,SIM Swap Scam,187,80.1
++917000781138,Police Impersonation,scam,Police Impersonation,500,100
++917700614421,Health Insurance Spam,spam,Health Insurance Spam,98,64.4
++917000161816,Bank Phishing,scam,Bank Phishing,108,58.4
++917500605945,Credit Card Scam,scam,Credit Card Scam,392,100
++918800841703,Investment Scam,scam,Investment Scam,87,42.1
++918700214850,Prize Scam,scam,Prize Scam,158,67.4
++917000248051,Lottery Scam,scam,Lottery Scam,208,87.4
++918800543883,Fake Tech Support,scam,Fake Tech Support,212,85.6
++916200854070,Real Estate Spam,spam,Real Estate Spam,5,12.5
++919100889028,Police Impersonation,scam,Police Impersonation,224,94.2
++919999295820,Education Spam,spam,Education Spam,47,27.1
++919300918064,Fake Delivery,scam,Fake Delivery,314,100
++918888132712,Police Impersonation,scam,Police Impersonation,173,88.9
++918888787945,Real Estate Spam,spam,Real Estate Spam,125,66.5
++918300982808,Loan Offer,spam,Loan Offer,314,100
++918300835225,Aadhaar Scam,scam,Aadhaar Scam,434,100
++916000520608,Police Impersonation,scam,Police Impersonation,107,51.1
++916300586429,Health Insurance Spam,spam,Health Insurance Spam,76,51.8
++916000588653,Health Insurance Spam,spam,Health Insurance Spam,217,92.1
++917500338744,Investment Scam,scam,Investment Scam,444,100
++918800780662,Investment Scam,scam,Investment Scam,286,100
++918700936478,Courier Fraud,scam,Courier Fraud,65,33.5
++918800747114,Investment Scam,scam,Investment Scam,348,100
++916300427537,Fake Tech Support,scam,Fake Tech Support,444,100
++919100506205,Job Scam,scam,Job Scam,457,100
++919100219863,Fake Tech Support,scam,Fake Tech Support,316,100
++918700635983,Aadhaar Scam,scam,Aadhaar Scam,475,100
++917000748873,Credit Card Scam,scam,Credit Card Scam,266,100
++919300884237,Insurance Scam,scam,Insurance Scam,447,100
++919500874353,WhatsApp Scam,scam,WhatsApp Scam,102,44.6
++919500423536,Credit Card Scam,scam,Credit Card Scam,266,100
++919500833802,KYC Fraud,scam,KYC Fraud,390,100
++917300175754,Prize Scam,scam,Prize Scam,160,64.0
++919500567068,Aadhaar Scam,scam,Aadhaar Scam,9,29.7
++916200868970,UPI Scam,scam,UPI Scam,229,100
++916300766733,Lottery Scam,scam,Lottery Scam,106,43.8
++918800854587,WhatsApp Scam,scam,WhatsApp Scam,97,41.1
++916300798897,Political Robocall,spam,Political Robocall,184,78.2
++918500497013,Fake Tech Support,scam,Fake Tech Support,18,31.4
++919500301040,Fake Tech Support,scam,Fake Tech Support,68,56.4
++919999188284,Survey Scam,scam,Survey Scam,46,37.8
++916100986764,Bank Phishing,scam,Bank Phishing,243,100
++916000774185,Credit Card Scam,scam,Credit Card Scam,494,100
++916000841849,Political Robocall,spam,Political Robocall,322,100
++916100931594,Loan Offer,spam,Loan Offer,156,81.8
++918888926470,Tax Refund Scam,scam,Tax Refund Scam,479,100
++919500732372,Electricity Bill Scam,scam,Electricity Bill Scam,181,79.3
++918500919599,KYC Fraud,scam,KYC Fraud,329,100
++918888562945,UPI Scam,scam,UPI Scam,140,81.0
++916200598932,Health Insurance Spam,spam,Health Insurance Spam,230,98.0
++919999801309,Paytm Cashback Scam,scam,Paytm Cashback Scam,232,100
++919500479708,Courier Fraud,scam,Courier Fraud,466,100
++916200408942,Job Scam,scam,Job Scam,237,93.1
++919500395912,Survey Scam,scam,Survey Scam,156,59.8
++918500526691,WhatsApp Scam,scam,WhatsApp Scam,281,100
++919300511952,Tax Refund Scam,scam,Tax Refund Scam,405,100
++918800816089,Telemarketing,spam,Telemarketing,293,100
++918300390779,Loan Offer,spam,Loan Offer,384,100
++918800902839,Electricity Bill Scam,scam,Electricity Bill Scam,395,100
++918700158810,Aadhaar Scam,scam,Aadhaar Scam,471,100
++919100701312,Aadhaar Scam,scam,Aadhaar Scam,136,61.8
++919500543835,WhatsApp Scam,scam,WhatsApp Scam,18,38.4
++919500255636,Health Insurance Spam,spam,Health Insurance Spam,161,61.3
++917700513758,Investment Scam,scam,Investment Scam,8,33.4
++918888578335,Telemarketing,spam,Telemarketing,265,100
++916000714766,Stock Tips,spam,Stock Tips,202,82.6
++917700208728,Survey Scam,scam,Survey Scam,64,45.2
++919999289180,Tax Refund Scam,scam,Tax Refund Scam,351,100
++919300974324,Matrimony Spam,spam,Matrimony Spam,49,26.7
++919300706761,Stock Tips,spam,Stock Tips,425,100
++918300466630,Lottery Scam,scam,Lottery Scam,39,43.7
++919300374827,Courier Fraud,scam,Courier Fraud,55,36.5
++917700908924,Health Insurance Spam,spam,Health Insurance Spam,317,100
++918500431538,KYC Fraud,scam,KYC Fraud,38,38.4
++918888633284,Tax Refund Scam,scam,Tax Refund Scam,273,92.9
++919876291846,Bank Phishing,scam,Bank Phishing,218,88.4
++918700182038,Job Scam,scam,Job Scam,122,67.6
++919876790352,UPI Scam,scam,UPI Scam,164,59.2
++917000682518,Paytm Cashback Scam,scam,Paytm Cashback Scam,152,61.6
++918700462622,Tax Refund Scam,scam,Tax Refund Scam,94,41.2
++917100351520,Electricity Bill Scam,scam,Electricity Bill Scam,444,100
++918888559240,SIM Swap Scam,scam,SIM Swap Scam,85,40.5
++918700237074,Fake Tech Support,scam,Fake Tech Support,61,42.3
++918300377130,KYC Fraud,scam,KYC Fraud,304,100
++919877156948,Credit Card Scam,scam,Credit Card Scam,199,78.7
++916200522270,OTP Fraud,scam,OTP Fraud,149,82.7
++919877448233,Police Impersonation,scam,Police Impersonation,23,18.9
++918888509344,UPI Scam,scam,UPI Scam,110,46.0
++916200117490,Fake Delivery,scam,Fake Delivery,212,91.6
++917000110820,Police Impersonation,scam,Police Impersonation,465,100
++918888507731,Aadhaar Scam,scam,Aadhaar Scam,420,100
++919500288111,Paytm Cashback Scam,scam,Paytm Cashback Scam,142,77.6
++916100418705,Loan Offer,spam,Loan Offer,77,53.1
++917100485715,Credit Card Scam,scam,Credit Card Scam,275,100
++919876398040,Lottery Scam,scam,Lottery Scam,24,33.2
++919877916424,Electricity Bill Scam,scam,Electricity Bill Scam,252,100
++916100931231,Fake Tech Support,scam,Fake Tech Support,124,69.2
++918700327540,Health Insurance Spam,spam,Health Insurance Spam,399,100
++917700633678,Health Insurance Spam,spam,Health Insurance Spam,377,100
++916200326452,Tax Refund Scam,scam,Tax Refund Scam,219,95.7
++918888952862,Insurance Scam,scam,Insurance Scam,290,100
++917300837140,Political Robocall,spam,Political Robocall,412,100
++916200196886,OTP Fraud,scam,OTP Fraud,451,100
++918888546765,Investment Scam,scam,Investment Scam,65,47.5
++919999604560,Education Spam,spam,Education Spam,86,63.8
++918800356938,Police Impersonation,scam,Police Impersonation,78,46.4
++916200865516,Electricity Bill Scam,scam,Electricity Bill Scam,386,100
++916300605989,Fake Delivery,scam,Fake Delivery,266,97.8
++916100715668,Bank Phishing,scam,Bank Phishing,483,100
++917300298080,SIM Swap Scam,scam,SIM Swap Scam,31,38.3
++919999833524,Political Robocall,spam,Political Robocall,50,38.0
++918800543593,UPI Scam,scam,UPI Scam,386,100
++917000662194,Telemarketing,spam,Telemarketing,74,47.2
++918888149650,OTP Fraud,scam,OTP Fraud,348,100
++918700675830,Paytm Cashback Scam,scam,Paytm Cashback Scam,333,100
++917300491146,Prize Scam,scam,Prize Scam,120,50.0
++917500591573,OTP Fraud,scam,OTP Fraud,316,100
++919877904869,KYC Fraud,scam,KYC Fraud,410,100
++917500933167,KYC Fraud,scam,KYC Fraud,211,81.3
++916200764952,Credit Card Scam,scam,Credit Card Scam,314,100
++919877956977,Job Scam,scam,Job Scam,108,58.4
++919999587515,Paytm Cashback Scam,scam,Paytm Cashback Scam,223,100
++919300278771,Tax Refund Scam,scam,Tax Refund Scam,295,100
++918500421758,Bank Phishing,scam,Bank Phishing,108,42.4
++917700466924,Bank Phishing,scam,Bank Phishing,409,100
++917700538126,Lottery Scam,scam,Lottery Scam,380,100
++919100612263,Fake Delivery,scam,Fake Delivery,274,98.2
++918500420688,Prize Scam,scam,Prize Scam,448,100
++916100689150,Paytm Cashback Scam,scam,Paytm Cashback Scam,323,100
++917300686633,Electricity Bill Scam,scam,Electricity Bill Scam,74,62.2
++917000683936,Real Estate Spam,spam,Real Estate Spam,220,84.0
++917100644509,Fake Tech Support,scam,Fake Tech Support,432,100
++916300398284,Job Scam,scam,Job Scam,345,100
++919300319331,Tax Refund Scam,scam,Tax Refund Scam,218,93.4
++917100996059,Real Estate Spam,spam,Real Estate Spam,168,70.4
++919877427810,Telemarketing,spam,Telemarketing,8,27.4
++919877878045,Telemarketing,spam,Telemarketing,120,72.0
++918700373570,Health Insurance Spam,spam,Health Insurance Spam,486,100
++918500735154,Courier Fraud,scam,Courier Fraud,249,100
++916000345534,Tax Refund Scam,scam,Tax Refund Scam,143,67.9
++918300961565,Lottery Scam,scam,Lottery Scam,80,36.0
++917300558154,Police Impersonation,scam,Police Impersonation,91,50.3
++919999439644,Bank Phishing,scam,Bank Phishing,50,54.0
++917700456081,Insurance Scam,scam,Insurance Scam,456,100
++919876151151,Education Spam,spam,Education Spam,191,70.3
++918800101158,Lottery Scam,scam,Lottery Scam,187,88.1
++916100303831,Education Spam,spam,Education Spam,57,29.1
++917100880252,Aadhaar Scam,scam,Aadhaar Scam,206,97.8
++916000916191,Matrimony Spam,spam,Matrimony Spam,228,97.4
++917300590336,Real Estate Spam,spam,Real Estate Spam,224,100
++919876510313,Credit Card Scam,scam,Credit Card Scam,225,90.5
++916300238600,Telemarketing,spam,Telemarketing,85,62.5
++919876161739,Loan Offer,spam,Loan Offer,240,100
++917000596469,Investment Scam,scam,Investment Scam,397,100
++919999288587,Credit Card Scam,scam,Credit Card Scam,304,100
++918888831412,SIM Swap Scam,scam,SIM Swap Scam,105,68.5
++916000757011,Paytm Cashback Scam,scam,Paytm Cashback Scam,19,36.7
++917500512072,Matrimony Spam,spam,Matrimony Spam,360,100
++917300663223,Matrimony Spam,spam,Matrimony Spam,158,58.4
++919500948569,UPI Scam,scam,UPI Scam,87,42.1
++918700152369,Police Impersonation,scam,Police Impersonation,315,100
++917000697994,Telemarketing,spam,Telemarketing,160,66.0
++917300448576,Telemarketing,spam,Telemarketing,118,47.4
++919100140241,Job Scam,scam,Job Scam,86,38.8
++919999728458,Fake Tech Support,scam,Fake Tech Support,158,61.4
++919876428771,OTP Fraud,scam,OTP Fraud,365,100
++917700664102,Paytm Cashback Scam,scam,Paytm Cashback Scam,331,100
++919877905870,Investment Scam,scam,Investment Scam,92,51.6
++917000214633,Aadhaar Scam,scam,Aadhaar Scam,470,100
++918500273018,UPI Scam,scam,UPI Scam,455,100
++916000651334,Police Impersonation,scam,Police Impersonation,59,31.7
++918500632536,Paytm Cashback Scam,scam,Paytm Cashback Scam,354,100
++918888212111,Prize Scam,scam,Prize Scam,304,100
++919500612621,Paytm Cashback Scam,scam,Paytm Cashback Scam,10,33.0
++916000945478,Survey Scam,scam,Survey Scam,178,76.4
++916300812095,Survey Scam,scam,Survey Scam,412,100
++916000318895,Political Robocall,spam,Political Robocall,335,100
++916100396528,Stock Tips,spam,Stock Tips,334,100
++916100214617,Auto Insurance Spam,spam,Auto Insurance Spam,160,69.0
++918500745985,Credit Card Scam,scam,Credit Card Scam,342,100
++918800464788,Insurance Scam,scam,Insurance Scam,421,100
++917700479829,Courier Fraud,scam,Courier Fraud,85,58.5
++918888595501,Electricity Bill Scam,scam,Electricity Bill Scam,287,100
++917100533673,UPI Scam,scam,UPI Scam,378,100
++918700513196,Fake Delivery,scam,Fake Delivery,62,51.6
++918500558258,WhatsApp Scam,scam,WhatsApp Scam,407,100
++916000620557,Courier Fraud,scam,Courier Fraud,318,100
++918800310861,Auto Insurance Spam,spam,Auto Insurance Spam,84,57.2
++917100780955,Credit Card Scam,scam,Credit Card Scam,13,39.9
++919999684430,Loan Offer,spam,Loan Offer,321,100
++918800554111,Credit Card Scam,scam,Credit Card Scam,212,83.6
++918800319590,Matrimony Spam,spam,Matrimony Spam,308,100
++918700518640,WhatsApp Scam,scam,WhatsApp Scam,302,100
++917500829873,UPI Scam,scam,UPI Scam,338,100
++919100487924,Matrimony Spam,spam,Matrimony Spam,429,100
++916300655100,KYC Fraud,scam,KYC Fraud,416,100
++917500885102,Paytm Cashback Scam,scam,Paytm Cashback Scam,275,100
++918300919959,Telemarketing,spam,Telemarketing,373,100
++917000372382,Aadhaar Scam,scam,Aadhaar Scam,309,100
++918300157872,UPI Scam,scam,UPI Scam,448,100
++917300917743,OTP Fraud,scam,OTP Fraud,143,66.9
++918700930315,Health Insurance Spam,spam,Health Insurance Spam,139,54.7
++919999902469,Survey Scam,scam,Survey Scam,306,100
++917500480807,Health Insurance Spam,spam,Health Insurance Spam,54,28.2
++916100509706,Political Robocall,spam,Political Robocall,425,100
++919999440309,Loan Offer,spam,Loan Offer,305,100
++917000645947,Stock Tips,spam,Stock Tips,388,100
++916000802249,Survey Scam,scam,Survey Scam,377,100
++916100817571,Police Impersonation,scam,Police Impersonation,271,100
++917000183219,Job Scam,scam,Job Scam,83,52.9
++917300551284,Telemarketing,spam,Telemarketing,427,100
++918500991357,Lottery Scam,scam,Lottery Scam,128,61.4
++919876119564,Insurance Scam,scam,Insurance Scam,276,100
++917100829668,UPI Scam,scam,UPI Scam,356,100
++919877857158,Aadhaar Scam,scam,Aadhaar Scam,57,52.1
++917000614772,Fake Tech Support,scam,Fake Tech Support,98,53.4
++919876151531,Real Estate Spam,spam,Real Estate Spam,176,68.8
++918888881728,Fake Tech Support,scam,Fake Tech Support,399,100
++916300926692,Real Estate Spam,spam,Real Estate Spam,155,56.5
++917700345490,Aadhaar Scam,scam,Aadhaar Scam,29,27.7
++918300206829,Health Insurance Spam,spam,Health Insurance Spam,440,100
++918300381053,Police Impersonation,scam,Police Impersonation,465,100
++916000459374,Fake Tech Support,scam,Fake Tech Support,331,100
++919877203259,Loan Offer,spam,Loan Offer,57,41.1
++916300455755,Credit Card Scam,scam,Credit Card Scam,156,68.8
++918800457924,UPI Scam,scam,UPI Scam,66,31.8
++919500371579,WhatsApp Scam,scam,WhatsApp Scam,222,79.6
++917300868743,Political Robocall,spam,Political Robocall,153,81.9
++918700567710,Stock Tips,spam,Stock Tips,193,78.9
++918700245570,Health Insurance Spam,spam,Health Insurance Spam,248,90.4
++919876901229,Real Estate Spam,spam,Real Estate Spam,101,64.3
++918700777406,Fake Delivery,scam,Fake Delivery,356,100
++918800235374,WhatsApp Scam,scam,WhatsApp Scam,69,43.7
++919876765487,Political Robocall,spam,Political Robocall,135,78.5
++916000140019,Aadhaar Scam,scam,Aadhaar Scam,298,100
++918500187071,Job Scam,scam,Job Scam,350,100
++917100393584,Job Scam,scam,Job Scam,388,100
++918800217699,Electricity Bill Scam,scam,Electricity Bill Scam,444,100
++919876562235,Insurance Scam,scam,Insurance Scam,223,81.9
++916200164595,Paytm Cashback Scam,scam,Paytm Cashback Scam,468,100
++916200492319,KYC Fraud,scam,KYC Fraud,244,99.2
++917700605537,SIM Swap Scam,scam,SIM Swap Scam,400,100
++919877963375,Insurance Scam,scam,Insurance Scam,57,45.1
++917500979650,Political Robocall,spam,Political Robocall,428,100
++918500215257,Survey Scam,scam,Survey Scam,288,100
++917500259826,Investment Scam,scam,Investment Scam,447,100
++917300648767,KYC Fraud,scam,KYC Fraud,303,100
++918300173365,Electricity Bill Scam,scam,Electricity Bill Scam,321,100
++916300799787,Courier Fraud,scam,Courier Fraud,259,98.7
++918888877642,Political Robocall,spam,Political Robocall,302,100
++918888384503,Health Insurance Spam,spam,Health Insurance Spam,445,100
++919999919216,Auto Insurance Spam,spam,Auto Insurance Spam,245,100
++917700142491,Investment Scam,scam,Investment Scam,384,100
++918700275948,Aadhaar Scam,scam,Aadhaar Scam,258,91.4
++919500570278,Aadhaar Scam,scam,Aadhaar Scam,28,37.4
++916200779617,KYC Fraud,scam,KYC Fraud,204,82.2
++917100339371,Real Estate Spam,spam,Real Estate Spam,155,85.5
++919300844406,UPI Scam,scam,UPI Scam,257,100
++916200968565,Political Robocall,spam,Political Robocall,470,100
++919500328638,Investment Scam,scam,Investment Scam,325,100
++916100889618,Credit Card Scam,scam,Credit Card Scam,380,100
++917100978719,Fake Delivery,scam,Fake Delivery,145,75.5
++916200706051,UPI Scam,scam,UPI Scam,261,100
++917700643725,UPI Scam,scam,UPI Scam,101,49.3
++916100135482,Lottery Scam,scam,Lottery Scam,312,100
++918888449211,Credit Card Scam,scam,Credit Card Scam,124,58.2
++917500167320,Prize Scam,scam,Prize Scam,205,85.5
++918800128327,Fake Delivery,scam,Fake Delivery,144,80.2
++918300278612,Job Scam,scam,Job Scam,212,100
++917000740841,Real Estate Spam,spam,Real Estate Spam,365,100
++919100538489,Survey Scam,scam,Survey Scam,341,100
++919999139153,Electricity Bill Scam,scam,Electricity Bill Scam,220,92.0
++917700698572,UPI Scam,scam,UPI Scam,377,100
++919100812585,Credit Card Scam,scam,Credit Card Scam,241,100
++917500373169,Fake Tech Support,scam,Fake Tech Support,10,27.0
++919500297310,Paytm Cashback Scam,scam,Paytm Cashback Scam,249,98.7
++919877961709,Stock Tips,spam,Stock Tips,455,100
++916200297648,Bank Phishing,scam,Bank Phishing,30,22.0
++919876768942,Paytm Cashback Scam,scam,Paytm Cashback Scam,409,100
++916000713743,Stock Tips,spam,Stock Tips,12,32.6
++917500236933,Survey Scam,scam,Survey Scam,175,81.5
++916200298222,Prize Scam,scam,Prize Scam,39,26.7
++917000448559,Survey Scam,scam,Survey Scam,141,70.3
++919100220077,Matrimony Spam,spam,Matrimony Spam,124,69.2
++918700137689,Bank Phishing,scam,Bank Phishing,338,100
++917100287301,Telemarketing,spam,Telemarketing,269,93.7
++918500562721,Paytm Cashback Scam,scam,Paytm Cashback Scam,132,71.6
++918700119497,Paytm Cashback Scam,scam,Paytm Cashback Scam,399,100
++916200477456,Bank Phishing,scam,Bank Phishing,263,100
++916000613206,UPI Scam,scam,UPI Scam,326,100
++919100746822,Auto Insurance Spam,spam,Auto Insurance Spam,334,100
++917000639537,Auto Insurance Spam,spam,Auto Insurance Spam,494,100
++919999780146,WhatsApp Scam,scam,WhatsApp Scam,188,81.4
++918888588853,Matrimony Spam,spam,Matrimony Spam,123,60.9
++917100642094,Real Estate Spam,spam,Real Estate Spam,146,72.8
++918700706141,Real Estate Spam,spam,Real Estate Spam,475,100
++916200527355,Courier Fraud,scam,Courier Fraud,214,100
++917100951917,Political Robocall,spam,Political Robocall,415,100
++917500805759,Prize Scam,scam,Prize Scam,38,32.4
++916300951460,Credit Card Scam,scam,Credit Card Scam,379,100
++919877756081,Prize Scam,scam,Prize Scam,193,94.9
++917100591875,Health Insurance Spam,spam,Health Insurance Spam,362,100
++919500267237,WhatsApp Scam,scam,WhatsApp Scam,279,100
++918300491793,Job Scam,scam,Job Scam,318,100
++918500298954,Political Robocall,spam,Political Robocall,245,98.5
++919100732703,WhatsApp Scam,scam,WhatsApp Scam,287,100
++919500444435,Fake Delivery,scam,Fake Delivery,373,100
++916100923391,Survey Scam,scam,Survey Scam,117,46.1
++917300877965,Political Robocall,spam,Political Robocall,197,89.1
++919876956491,Health Insurance Spam,spam,Health Insurance Spam,488,100
++917300810849,Aadhaar Scam,scam,Aadhaar Scam,319,100
++917100483059,Courier Fraud,scam,Courier Fraud,335,100
++916000603935,Insurance Scam,scam,Insurance Scam,99,60.7
++919300339061,Loan Offer,spam,Loan Offer,326,100
++919877305970,Loan Offer,spam,Loan Offer,458,100
++919999869458,Survey Scam,scam,Survey Scam,445,100
++919500737165,Stock Tips,spam,Stock Tips,279,95.7
++919999390434,Fake Delivery,scam,Fake Delivery,428,100
++918700920876,Stock Tips,spam,Stock Tips,155,64.5
++917500381184,Paytm Cashback Scam,scam,Paytm Cashback Scam,440,100
++919300170086,Prize Scam,scam,Prize Scam,312,100
++919876821692,Prize Scam,scam,Prize Scam,409,100
++918300959251,Job Scam,scam,Job Scam,97,40.1
++916000409090,Police Impersonation,scam,Police Impersonation,136,73.8
++919500401461,Tax Refund Scam,scam,Tax Refund Scam,252,90.6
++918300661887,Survey Scam,scam,Survey Scam,271,100
++919877470943,Paytm Cashback Scam,scam,Paytm Cashback Scam,472,100
++919999801517,Fake Tech Support,scam,Fake Tech Support,16,24.8
++916000876104,WhatsApp Scam,scam,WhatsApp Scam,448,100
++916300801483,KYC Fraud,scam,KYC Fraud,484,100
++919877612365,KYC Fraud,scam,KYC Fraud,488,100
++918500819137,Loan Offer,spam,Loan Offer,336,100
++917000947038,Health Insurance Spam,spam,Health Insurance Spam,262,100
++919877253413,SIM Swap Scam,scam,SIM Swap Scam,339,100
++916000578771,SIM Swap Scam,scam,SIM Swap Scam,445,100
++919300144009,Job Scam,scam,Job Scam,352,100
++917100295078,Real Estate Spam,spam,Real Estate Spam,94,61.2
++919877319873,UPI Scam,scam,UPI Scam,35,33.5
++916100377128,WhatsApp Scam,scam,WhatsApp Scam,371,100
++918700306949,Telemarketing,spam,Telemarketing,67,43.1
++918888426944,Education Spam,spam,Education Spam,457,100
++918888348189,Telemarketing,spam,Telemarketing,178,75.4
++918500782056,OTP Fraud,scam,OTP Fraud,373,100
++916200546097,Telemarketing,spam,Telemarketing,320,100
++918888299155,Insurance Scam,scam,Insurance Scam,224,90.2
++917300271678,Political Robocall,spam,Political Robocall,176,87.8
++918700611334,Investment Scam,scam,Investment Scam,354,100
++919100985068,Paytm Cashback Scam,scam,Paytm Cashback Scam,63,50.9
++918500890219,Job Scam,scam,Job Scam,404,100
++917000435899,SIM Swap Scam,scam,SIM Swap Scam,294,100
++917100273199,Job Scam,scam,Job Scam,323,100
++916300136308,Bank Phishing,scam,Bank Phishing,492,100
++916100190693,Political Robocall,spam,Political Robocall,481,100
++919500510695,Aadhaar Scam,scam,Aadhaar Scam,6,23.8
++918888386767,Prize Scam,scam,Prize Scam,310,100
++918300665983,Insurance Scam,scam,Insurance Scam,90,38.0
++918800428793,Credit Card Scam,scam,Credit Card Scam,403,100
++917500879766,Real Estate Spam,spam,Real Estate Spam,428,100
++917100515986,Survey Scam,scam,Survey Scam,180,70.0
++919100580721,Matrimony Spam,spam,Matrimony Spam,394,100
++919877451313,Lottery Scam,scam,Lottery Scam,169,83.7
++917300157364,Education Spam,spam,Education Spam,407,100
++919876908652,SIM Swap Scam,scam,SIM Swap Scam,348,100
++919877287440,Prize Scam,scam,Prize Scam,97,44.1
