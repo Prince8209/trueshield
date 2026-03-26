@@ -24,6 +24,8 @@ const env = {
 
   // AI Service
   AI_SERVICE_URL: process.env.AI_SERVICE_URL || 'http://localhost:8000',
+  IPQS_API_KEY: process.env.IPQS_API_KEY || 'mock',
+  TRUECALLER_API_KEY: process.env.TRUECALLER_API_KEY || 'mock',
 
   // Twilio (OTP)
   TWILIO_ACCOUNT_SID: process.env.TWILIO_ACCOUNT_SID || 'mock',

@@ -5,6 +5,7 @@ const PhoneDirectory = require('../models/phoneDirectory.model');
 const MobileSeries = require('../models/mobileSeries.model');
 const { parsePhoneNumber } = require('../utils/phone.util');
 const AppError = require('../utils/appError.util');
+const env = require('../config/env.config');
 
 /**
  * Perform a full lookup for a phone number against local databases
@@ -91,11 +92,54 @@ const lookupPhone = async (rawPhoneNumber) => {
 
   } catch (err) {
     console.error('Phone lookup DB error:', err);
-    // Continue despite local DB errors
+    // Continue external fallback despite local DB errors
   }
 
-  // 6. External API Placeholder (Module 6 integration target)
-  // If profile is still very empty and external lookups are enabled, we will call them here later.
+    // 6. External API Aggregation & Local Caching (Module 6)
+    if (!profile.name && env.IPQS_API_KEY) {
+      const extApi = require('./externalApi.service');
+      // Fetch IPQS Risk + Caller ID Identity in parallel
+      const externalData = await extApi.fetchExternalIntelligence(e164);
+      
+      let cacheUpdated = false;
+
+      // Merge Identity
+      if (externalData.identity && externalData.identity.name) {
+        profile.name = externalData.identity.name;
+        if (profile.carrier === 'Unknown') profile.carrier = externalData.identity.carrier;
+        cacheUpdated = true;
+      }
+
+      // Merge Risk
+      if (externalData.risk) {
+        // Only increase spam score if external API says it's higher
+        if (externalData.risk.spamScore > profile.spamScore) {
+          profile.spamScore = externalData.risk.spamScore;
+          profile.isSpam = externalData.risk.isSpam;
+        }
+      }
+
+      // Automatically cache this new identity into our local MongoDB
+      if (cacheUpdated) {
+        try {
+          await PhoneDirectory.create({
+            phoneNumber: e164,
+            name: profile.name,
+            carrier: profile.carrier,
+            city: profile.location.split(',')[0]?.trim() || '',
+            state: profile.location.split(',')[1]?.trim() || '',
+            type: profile.type,
+            spamScore: profile.spamScore
+          });
+          console.log(`✅ Cached external identity for ${e164} into local DB`);
+        } catch (cacheErr) {
+          // Ignore duplicate key errors if a race condition occurs
+          if (cacheErr.code !== 11000) {
+            console.error('Failed to cache external profile:', cacheErr.message);
+          }
+        }
+      }
+    }
 
   return profile;
 };
