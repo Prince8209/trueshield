@@ -1,14 +1,23 @@
 @import "tailwindcss";
 
-/* === TrueShield Global Styles === */
-
-body {
-  margin: 0;
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@theme {
+  --color-truegray-900: #0B0F19;
+  --color-truegray-800: #111827;
+  --color-truegray-700: #1F2937;
+  --color-trueblue-500: #3B82F6;
+  --color-trueblue-400: #60A5FA;
 }
 
-#root {
-  min-height: 100vh;
+body {
+  background-color: var(--color-truegray-900);
+  color: var(--color-gray-100);
+}
+
+.animation-fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
 }
