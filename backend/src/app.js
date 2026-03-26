@@ -8,6 +8,7 @@ const authRoutes = require('./routes/auth.route');
 const userRoutes = require('./routes/user.route');
 const phoneRoutes = require('./routes/phone.route');
 const spamRoutes = require('./routes/spam.route');
+const messageRoutes = require('./routes/message.route');
 
 /**
  * Create and configure Express application
@@ -30,6 +31,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/phone', phoneRoutes);
 app.use('/api/spam', spamRoutes);
+app.use('/api/messages', messageRoutes);
 
 // --- 404 Handler ---
 app.use((req, res) => {
